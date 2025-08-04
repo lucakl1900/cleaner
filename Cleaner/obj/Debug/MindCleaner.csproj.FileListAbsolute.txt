@@ -1,0 +1,80 @@
+C:\Users\erikm\source\repos\MindCleaner\MindCleaner\bin\Debug\MindCleaner.exe.config
+C:\Users\erikm\source\repos\MindCleaner\MindCleaner\bin\Debug\MindCleaner.exe
+C:\Users\erikm\source\repos\MindCleaner\MindCleaner\bin\Debug\MindCleaner.pdb
+C:\Users\erikm\source\repos\MindCleaner\MindCleaner\bin\Debug\Guna.UI2.dll
+C:\Users\erikm\source\repos\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.AssemblyReference.cache
+C:\Users\erikm\source\repos\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.SuggestedBindingRedirects.cache
+C:\Users\erikm\source\repos\MindCleaner\MindCleaner\obj\Debug\MindCleaner.Login.resources
+C:\Users\erikm\source\repos\MindCleaner\MindCleaner\obj\Debug\MindCleaner.Main.resources
+C:\Users\erikm\source\repos\MindCleaner\MindCleaner\obj\Debug\MindCleaner.Properties.Resources.resources
+C:\Users\erikm\source\repos\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.GenerateResource.cache
+C:\Users\erikm\source\repos\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.CoreCompileInputs.cache
+C:\Users\erikm\source\repos\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.CopyComplete
+C:\Users\erikm\source\repos\MindCleaner\MindCleaner\obj\Debug\MindCleaner.exe
+C:\Users\erikm\source\repos\MindCleaner\MindCleaner\obj\Debug\MindCleaner.pdb
+C:\Users\erikm\source\repos\MindCleaner\MindCleaner\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erikm\source\repos\MindCleaner\MindCleaner\bin\Debug\Newtonsoft.Json.xml
+C:\Users\erhar\OneDrive\Desktop\MindCleaner\MindCleaner\bin\Debug\MindCleaner.exe.config
+C:\Users\erhar\OneDrive\Desktop\MindCleaner\MindCleaner\bin\Debug\MindCleaner.exe
+C:\Users\erhar\OneDrive\Desktop\MindCleaner\MindCleaner\bin\Debug\MindCleaner.pdb
+C:\Users\erhar\OneDrive\Desktop\MindCleaner\MindCleaner\bin\Debug\Guna.UI2.dll
+C:\Users\erhar\OneDrive\Desktop\MindCleaner\MindCleaner\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erhar\OneDrive\Desktop\MindCleaner\MindCleaner\bin\Debug\Newtonsoft.Json.xml
+C:\Users\erhar\OneDrive\Desktop\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.AssemblyReference.cache
+C:\Users\erhar\OneDrive\Desktop\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.SuggestedBindingRedirects.cache
+C:\Users\erhar\OneDrive\Desktop\MindCleaner\MindCleaner\obj\Debug\MindCleaner.Login.resources
+C:\Users\erhar\OneDrive\Desktop\MindCleaner\MindCleaner\obj\Debug\MindCleaner.Main.resources
+C:\Users\erhar\OneDrive\Desktop\MindCleaner\MindCleaner\obj\Debug\MindCleaner.Properties.Resources.resources
+C:\Users\erhar\OneDrive\Desktop\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.GenerateResource.cache
+C:\Users\erhar\OneDrive\Desktop\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.CoreCompileInputs.cache
+C:\Users\erhar\OneDrive\Desktop\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.CopyComplete
+C:\Users\erhar\OneDrive\Desktop\MindCleaner\MindCleaner\obj\Debug\MindCleaner.exe
+C:\Users\erhar\OneDrive\Desktop\MindCleaner\MindCleaner\obj\Debug\MindCleaner.pdb
+C:\Users\erhar\OneDrive\Desktop\mind\MindCleaner\MindCleaner\bin\Debug\MindCleaner.exe.config
+C:\Users\erhar\OneDrive\Desktop\mind\MindCleaner\MindCleaner\bin\Debug\MindCleaner.exe
+C:\Users\erhar\OneDrive\Desktop\mind\MindCleaner\MindCleaner\bin\Debug\MindCleaner.pdb
+C:\Users\erhar\OneDrive\Desktop\mind\MindCleaner\MindCleaner\bin\Debug\Guna.UI2.dll
+C:\Users\erhar\OneDrive\Desktop\mind\MindCleaner\MindCleaner\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erhar\OneDrive\Desktop\mind\MindCleaner\MindCleaner\bin\Debug\Newtonsoft.Json.xml
+C:\Users\erhar\OneDrive\Desktop\mind\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.AssemblyReference.cache
+C:\Users\erhar\OneDrive\Desktop\mind\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.SuggestedBindingRedirects.cache
+C:\Users\erhar\OneDrive\Desktop\mind\MindCleaner\MindCleaner\obj\Debug\MindCleaner.Login.resources
+C:\Users\erhar\OneDrive\Desktop\mind\MindCleaner\MindCleaner\obj\Debug\MindCleaner.Main.resources
+C:\Users\erhar\OneDrive\Desktop\mind\MindCleaner\MindCleaner\obj\Debug\MindCleaner.Properties.Resources.resources
+C:\Users\erhar\OneDrive\Desktop\mind\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.GenerateResource.cache
+C:\Users\erhar\OneDrive\Desktop\mind\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.CoreCompileInputs.cache
+C:\Users\erhar\OneDrive\Desktop\mind\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.CopyComplete
+C:\Users\erhar\OneDrive\Desktop\mind\MindCleaner\MindCleaner\obj\Debug\MindCleaner.exe
+C:\Users\erhar\OneDrive\Desktop\mind\MindCleaner\MindCleaner\obj\Debug\MindCleaner.pdb
+C:\Users\Encrypteed\Downloads\MindCleaner\MindCleaner\MindCleaner\bin\Debug\MindCleaner.exe.config
+C:\Users\Encrypteed\Downloads\MindCleaner\MindCleaner\MindCleaner\bin\Debug\MindCleaner.exe
+C:\Users\Encrypteed\Downloads\MindCleaner\MindCleaner\MindCleaner\bin\Debug\MindCleaner.pdb
+C:\Users\Encrypteed\Downloads\MindCleaner\MindCleaner\MindCleaner\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Encrypteed\Downloads\MindCleaner\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.AssemblyReference.cache
+C:\Users\Encrypteed\Downloads\MindCleaner\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Encrypteed\Downloads\MindCleaner\MindCleaner\MindCleaner\obj\Debug\MindCleaner.Login.resources
+C:\Users\Encrypteed\Downloads\MindCleaner\MindCleaner\MindCleaner\obj\Debug\MindCleaner.Main.resources
+C:\Users\Encrypteed\Downloads\MindCleaner\MindCleaner\MindCleaner\obj\Debug\MindCleaner.Properties.Resources.resources
+C:\Users\Encrypteed\Downloads\MindCleaner\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.GenerateResource.cache
+C:\Users\Encrypteed\Downloads\MindCleaner\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Encrypteed\Downloads\MindCleaner\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.CopyComplete
+C:\Users\Encrypteed\Downloads\MindCleaner\MindCleaner\MindCleaner\obj\Debug\MindCleaner.exe
+C:\Users\Encrypteed\Downloads\MindCleaner\MindCleaner\MindCleaner\obj\Debug\MindCleaner.pdb
+C:\Users\Encrypteed\Downloads\MindCleaner\MindCleaner\MindCleaner\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Encrypteed\Downloads\MindCleaner\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.Fody.CopyLocal.cache
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\bin\Debug\MindCleaner.exe.config
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\bin\Debug\MindCleaner.exe
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\bin\Debug\MindCleaner.pdb
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.AssemblyReference.cache
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.SuggestedBindingRedirects.cache
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Debug\MindCleaner.Login.resources
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Debug\MindCleaner.Main.resources
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Debug\MindCleaner.Properties.Resources.resources
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.GenerateResource.cache
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.CoreCompileInputs.cache
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.Fody.CopyLocal.cache
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Debug\MindCleaner.csproj.CopyComplete
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Debug\MindCleaner.exe
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Debug\MindCleaner.pdb

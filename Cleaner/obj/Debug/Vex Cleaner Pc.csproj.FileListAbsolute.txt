@@ -1,0 +1,31 @@
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\bin\Debug\MindCleaner.exe.config
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\bin\Debug\MindCleaner.exe
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Debug\Vex Cleaner Pc.csproj.AssemblyReference.cache
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Debug\Vex Cleaner Pc.csproj.SuggestedBindingRedirects.cache
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Debug\MindCleaner.Login.resources
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Debug\MindCleaner.Main.resources
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Debug\MindCleaner.Properties.Resources.resources
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Debug\Vex Cleaner Pc.csproj.GenerateResource.cache
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Debug\Vex Cleaner Pc.csproj.CoreCompileInputs.cache
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Debug\Vex Cleaner Pc.csproj.Fody.CopyLocal.cache
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Debug\Vex Cleaner Pc.csproj.CopyComplete
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Debug\MindCleaner.exe
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Debug\MindCleaner.pdb
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\bin\Debug\MindCleaner.pdb
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\bin\Debug\Vex Cleaner.exe.config
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\bin\Debug\Vex Cleaner.exe
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\bin\Debug\Vex Cleaner.pdb
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\obj\Debug\Vex Cleaner Pc.csproj.AssemblyReference.cache
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\obj\Debug\MindCleaner.Login.resources
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\obj\Debug\MindCleaner.Main.resources
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\obj\Debug\MindCleaner.Properties.Resources.resources
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\obj\Debug\Vex Cleaner Pc.csproj.GenerateResource.cache
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\obj\Debug\Vex Cleaner Pc.csproj.CoreCompileInputs.cache
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\obj\Debug\Vex Cleaner Pc.csproj.Fody.CopyLocal.cache
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\obj\Debug\Vex Cleaner Pc.csproj.CopyComplete
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\obj\Debug\Vex Cleaner.exe
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\obj\Debug\Vex Cleaner.pdb

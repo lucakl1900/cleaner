@@ -1,0 +1,77 @@
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\bin\Release\Newtonsoft.Json.xml
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Release\Vex Cleaner Pc.csproj.AssemblyReference.cache
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Release\Vex Cleaner Pc.csproj.SuggestedBindingRedirects.cache
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Release\MindCleaner.Login.resources
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Release\MindCleaner.Main.resources
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Release\MindCleaner.Properties.Resources.resources
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Release\Vex Cleaner Pc.csproj.GenerateResource.cache
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Release\Vex Cleaner Pc.csproj.CoreCompileInputs.cache
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Release\Vex Cleaner Pc.csproj.Fody.CopyLocal.cache
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Release\Vex Cleaner Pc.csproj.CopyComplete
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\bin\Release\Vex Cleaner.exe.config
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\bin\Release\Vex Cleaner.exe
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\bin\Release\Vex Cleaner.pdb
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Release\Vex Cleaner.exe
+C:\Users\zuxvi\Desktop\MindCleaner scr\MindCleaner\MindCleaner\obj\Release\Vex Cleaner.pdb
+C:\Users\zuxvi\Desktop\Cleaner Src\Cleaner src\Cleaner\bin\Release\Vex Cleaner.exe.config
+C:\Users\zuxvi\Desktop\Cleaner Src\Cleaner src\Cleaner\bin\Release\Vex Cleaner.exe
+C:\Users\zuxvi\Desktop\Cleaner Src\Cleaner src\Cleaner\bin\Release\Vex Cleaner.pdb
+C:\Users\zuxvi\Desktop\Cleaner Src\Cleaner src\Cleaner\bin\Release\Newtonsoft.Json.xml
+C:\Users\zuxvi\Desktop\Cleaner Src\Cleaner src\Cleaner\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zuxvi\Desktop\Cleaner Src\Cleaner src\Cleaner\obj\Release\Vex Cleaner Pc.csproj.AssemblyReference.cache
+C:\Users\zuxvi\Desktop\Cleaner Src\Cleaner src\Cleaner\obj\Release\Vex Cleaner Pc.csproj.SuggestedBindingRedirects.cache
+C:\Users\zuxvi\Desktop\Cleaner Src\Cleaner src\Cleaner\obj\Release\MindCleaner.Login.resources
+C:\Users\zuxvi\Desktop\Cleaner Src\Cleaner src\Cleaner\obj\Release\MindCleaner.Main.resources
+C:\Users\zuxvi\Desktop\Cleaner Src\Cleaner src\Cleaner\obj\Release\MindCleaner.Properties.Resources.resources
+C:\Users\zuxvi\Desktop\Cleaner Src\Cleaner src\Cleaner\obj\Release\Vex Cleaner Pc.csproj.GenerateResource.cache
+C:\Users\zuxvi\Desktop\Cleaner Src\Cleaner src\Cleaner\obj\Release\Vex Cleaner Pc.csproj.CoreCompileInputs.cache
+C:\Users\zuxvi\Desktop\Cleaner Src\Cleaner src\Cleaner\obj\Release\Vex Cleaner Pc.csproj.Fody.CopyLocal.cache
+C:\Users\zuxvi\Desktop\Cleaner Src\Cleaner src\Cleaner\obj\Release\Vex Cleaner Pc.csproj.CopyComplete
+C:\Users\zuxvi\Desktop\Cleaner Src\Cleaner src\Cleaner\obj\Release\Vex Cleaner.exe
+C:\Users\zuxvi\Desktop\Cleaner Src\Cleaner src\Cleaner\obj\Release\Vex Cleaner.pdb
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\bin\Release\Vex Cleaner.exe.config
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\bin\Release\Vex Cleaner.exe
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\bin\Release\Vex Cleaner.pdb
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\bin\Release\Newtonsoft.Json.xml
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\obj\Release\Vex Cleaner Pc.csproj.AssemblyReference.cache
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\obj\Release\MindCleaner.Login.resources
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\obj\Release\MindCleaner.Main.resources
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\obj\Release\MindCleaner.Properties.Resources.resources
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\obj\Release\Vex Cleaner Pc.csproj.GenerateResource.cache
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\obj\Release\Vex Cleaner Pc.csproj.CoreCompileInputs.cache
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\obj\Release\Vex Cleaner Pc.csproj.Fody.CopyLocal.cache
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\obj\Release\Vex Cleaner Pc.csproj.CopyComplete
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\obj\Release\Vex Cleaner.exe
+C:\Users\alibl\Desktop\Alles\Projects\Cleaner\Cleaner src\Cleaner\obj\Release\Vex Cleaner.pdb
+C:\Users\felix\Desktop\Cleaner src\Cleaner\bin\Release\Newtonsoft.Json.xml
+C:\Users\felix\Desktop\Cleaner src\Cleaner\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\felix\Desktop\Cleaner src\Cleaner\obj\Release\Vex Cleaner Pc.csproj.AssemblyReference.cache
+C:\Users\felix\Desktop\Cleaner src\Cleaner\obj\Release\MindCleaner.Login.resources
+C:\Users\felix\Desktop\Cleaner src\Cleaner\obj\Release\MindCleaner.Main.resources
+C:\Users\felix\Desktop\Cleaner src\Cleaner\obj\Release\MindCleaner.Properties.Resources.resources
+C:\Users\felix\Desktop\Cleaner src\Cleaner\obj\Release\Vex Cleaner Pc.csproj.GenerateResource.cache
+C:\Users\felix\Desktop\Cleaner src\Cleaner\obj\Release\Vex Cleaner Pc.csproj.CoreCompileInputs.cache
+C:\Users\felix\Desktop\Cleaner src\Cleaner\obj\Release\Vex Cleaner Pc.csproj.Fody.CopyLocal.cache
+C:\Users\felix\Desktop\Cleaner src\Cleaner\obj\Release\Vex Cleaner Pc.csproj.CopyComplete
+C:\Users\felix\Desktop\Cleaner src\Cleaner src\Cleaner\bin\Release\Newtonsoft.Json.xml
+C:\Users\felix\Desktop\Cleaner src\Cleaner src\Cleaner\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\felix\Desktop\Cleaner src\Cleaner src\Cleaner\obj\Release\Vex Cleaner Pc.csproj.AssemblyReference.cache
+C:\Users\felix\Desktop\Cleaner src\Cleaner src\Cleaner\obj\Release\MindCleaner.Login.resources
+C:\Users\felix\Desktop\Cleaner src\Cleaner src\Cleaner\obj\Release\MindCleaner.Main.resources
+C:\Users\felix\Desktop\Cleaner src\Cleaner src\Cleaner\obj\Release\MindCleaner.Properties.Resources.resources
+C:\Users\felix\Desktop\Cleaner src\Cleaner src\Cleaner\obj\Release\Vex Cleaner Pc.csproj.GenerateResource.cache
+C:\Users\felix\Desktop\Cleaner src\Cleaner src\Cleaner\obj\Release\Vex Cleaner Pc.csproj.CoreCompileInputs.cache
+C:\Users\felix\Desktop\Cleaner src\Cleaner src\Cleaner\obj\Release\Vex Cleaner Pc.csproj.Fody.CopyLocal.cache
+C:\Users\felix\Desktop\Cleaner src\Cleaner src\Cleaner\obj\Release\Vex Cleaner Pc.csproj.CopyComplete
+C:\Users\felix\Desktop\Cleaner src\Cleaner src\Cleaner\bin\Release\Atikos Cleaner.exe.config
+C:\Users\felix\Desktop\Cleaner src\Cleaner src\Cleaner\bin\Release\Atikos Cleaner.exe
+C:\Users\felix\Desktop\Cleaner src\Cleaner src\Cleaner\bin\Release\Atikos Cleaner.pdb
+C:\Users\felix\Desktop\Cleaner src\Cleaner src\Cleaner\obj\Release\Atikos Cleaner.exe
+C:\Users\felix\Desktop\Cleaner src\Cleaner src\Cleaner\obj\Release\Atikos Cleaner.pdb
+C:\Users\felix\Desktop\Cleaner src\Cleaner\bin\Release\Atikos Cleaner.exe.config
+C:\Users\felix\Desktop\Cleaner src\Cleaner\bin\Release\Atikos Cleaner.exe
+C:\Users\felix\Desktop\Cleaner src\Cleaner\bin\Release\Atikos Cleaner.pdb
+C:\Users\felix\Desktop\Cleaner src\Cleaner\obj\Release\Atikos Cleaner.exe
+C:\Users\felix\Desktop\Cleaner src\Cleaner\obj\Release\Atikos Cleaner.pdb
